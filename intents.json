@@ -1,0 +1,13 @@
+{
+  "intents": [
+    {
+      "intent": "UserSpeech",
+      "slots": [
+        {
+          "name": "UserText",
+          "type": "AMAZON.LITERAL"
+        }
+      ]
+    }
+  ]
+}

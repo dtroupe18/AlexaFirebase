@@ -1,0 +1,20 @@
+{
+  "name": "alexa-poc-firebase",
+  "version": "1.0.0",
+  "description": "Sample Alexa POC using firebase",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "alexa",
+    "skill",
+    "fact"
+  ],
+  "author": "Amazon.com",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "alexa-sdk": "^1.0.13",
+    "firebase": "^3.9.0"
+  }
+}
